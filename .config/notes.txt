@@ -1,0 +1,14 @@
+Wallpaper -> feh --bg-scale "wallpaper"
+GTK themes -> lxappearance
+
+Fonts
+
+Icons:
+https://github.com/FortAwesome/Font-Awesome/releases
+Cheat sheet: https://fontawesome.com/cheatsheet/free/brands
+
+GTK & i3:
+https://github.com/supermarin/YosemiteSanFranciscoFont
+
+GTK theme:
+arc-theme
